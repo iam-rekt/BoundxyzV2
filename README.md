@@ -1,5 +1,7 @@
 # BoundxyzV2
 
+![BoundxyzV2 — Vault & Factory Staking System](assets/boundxyz-v2-banner.png)
+
 Vault & Factory Staking System, maintained by iam-rekt.
 
 A re-engineered staking model inspired by Curve Finance's vote-escrow design and ve(3,3) concepts, adapted for token-locking vaults, time-decaying voting power, and epoch-based rewards.
