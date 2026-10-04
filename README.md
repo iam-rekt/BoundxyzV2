@@ -1,6 +1,6 @@
 # BoundxyzV2
 
-![BoundxyzV2 — Vault & Factory Staking System](assets/boundxyz-v2-banner.png)
+[![Bound](assets/bound-logo.svg)](https://bound.xyz)
 
 Vault & Factory Staking System, maintained by iam-rekt.
 
