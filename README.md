@@ -1,7 +1,8 @@
 # BoundxyzV2
 
-Standalone distribution of the Vault & Factory Staking System, maintained by iam-rekt.
-Original MIT copyright and license notices are preserved in [LICENSE](LICENSE).
+Vault & Factory Staking System, maintained by iam-rekt.
+
+A re-engineered staking model inspired by Curve Finance's vote-escrow design and ve(3,3) concepts, adapted for token-locking vaults, time-decaying voting power, and epoch-based rewards.
 
 ## Publication scope and safety
 
